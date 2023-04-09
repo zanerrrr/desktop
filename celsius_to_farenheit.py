@@ -1,0 +1,5 @@
+print("Temperature converter")
+celsius = float(input("Enter temperature in Celsius "))
+print(f"You entered {celsius} degrees Celsius")
+farenheit = 32 + celsius * (9/5)
+print(f"The temperature in farenheit will be {farenheit}")
