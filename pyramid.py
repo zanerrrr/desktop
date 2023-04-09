@@ -21,5 +21,5 @@ def name():
         letters = " ".join([name[j] for j in range(i+1)])
         print(spaces + letters)
 
-#alternative_symbol()
+alternative_symbol()
 name()
